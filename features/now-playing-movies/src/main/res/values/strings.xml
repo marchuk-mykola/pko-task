@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="now_playing">Now playing</string>
+    <string name="search_results">Search results</string>
+    <string name="no_movies_found">No Movies Found</string>
+    <string name="error_loading_data_please_try_again_later">Error loading data. Please try again later.</string>
+</resources>
